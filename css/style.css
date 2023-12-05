@@ -1,0 +1,401 @@
+body{background-color: rgb(248, 245, 245);
+    /*border:solid 5px red;*/
+    border-radius: 50px;
+
+
+}
+.parent{
+width: auto;
+height: 1450px;
+/*border: 5px solid orange;*/
+background-color: rgb(248, 245, 245);
+display: flex;
+flex-direction: row-reverse;
+flex-wrap:nowrap;
+justify-content:center;
+margin-bottom: 15px;
+
+
+
+}
+
+.child1{
+width: 40px;
+height: auto;
+background-color: rgb(42, 136, 148);
+margin: 0px 0px 0px 0px;
+
+}
+.child2{
+width: 270px;
+height: 150px;
+background-color: rgb(246, 253, 251);
+}
+.child3{
+width: 550px;
+height: auto;
+background-color: rgb(246, 253, 251);
+ }
+
+.img{
+width: 150px;
+height: 150px;
+/*border: 5px solid red;*/
+flex-wrap:nowrap;
+justify-content:center;
+padding: 0px 0px 0px 10px;
+margin: 15px 35px 5px 55px;
+}
+
+.h{
+flex-wrap:nowrap;
+justify-content:flex-end;
+padding: 0px 0px 10px 20px;
+margin: 30px 0px 0px 10px;
+
+/*border: orange solid 3px;*/
+text-align: center;
+font-size:25px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 0px;
+text-align: center;
+color: rgb(42, 136, 148);
+}
+
+hr{
+border: 0px solid  rgb(196, 233, 220);  
+margin:10px 10px 10px 10px;  
+padding: 0px 0px 0px 0px;
+}
+
+.s{
+  /* width: 275px;
+   /* height: 25px;*/
+   /* border: 3px solid  rgb(196, 233, 220); */
+    display: flex;
+flex-direction: row-reverse;
+   /* justify-content:right;*/
+    margin: 10px 10px 10px 10px;
+}
+ .icon{
+    margin: 10px 0px 10px 10px;
+    background-color:transparent;
+ }
+.mail{
+    margin: 10px 0px 0px 10px;
+}
+.tel{margin: 10px 0px 0px 0px;}
+
+.hom{margin: 10px 0px 0px 0px;}
+
+
+.dat{
+    margin: 10px 0px 0px 0px;
+   text-align: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.loc{
+   
+    margin: 12px 0px 10px 10px;
+   text-align: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: small;
+}
+
+
+.li{
+    margin: 10px 5px 10px 20px;
+   text-align: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 15px;
+   
+}
+
+.g{
+    margin: 10px 5px 10px 20px;
+   text-align: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 15px;
+}
+
+.na{
+margin: 10px 5px 10px 20px;
+   text-align: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 15px;
+}
+
+.si{
+    margin: 10px 5px 10px 20px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.hi{
+    flex-wrap:nowrap;
+    justify-content:flex-end;
+    padding: 0px 0px 10px 140px;
+    margin: 30px 0px 0px 0px;
+    
+    /*border: orange solid 3px;*/
+    text-align: center;
+    font-size:25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 0px;
+    text-align: center;
+    color: rgb(42, 136, 148);
+    }
+    
+    hr{
+    border: 1px solid  rgb(196, 233, 220);  
+    margin:10px 10px 10px 10px;  
+    padding: 0px 0px 0px 0px;
+    }
+
+    .icon1{
+        
+        background-color:transparent;
+       margin: 0px 110px 0px 0px;
+     }
+     .icon11{
+       
+        background-color:transparent;
+       margin: 0px 124px 0px 0px;
+     }
+
+     .hii{
+        flex-wrap:nowrap;
+        justify-content:flex-end;
+        padding: 0px 0px 10px 160px;
+        margin: 30px 0px 0px 0px;
+        
+        /*border: orange solid 3px;*/
+        text-align: center;
+        font-size:25px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 0px;
+        text-align: center;
+        color: rgb(42, 136, 148);
+        }
+     .icon2{
+        
+        background-color:transparent;
+       margin: 0px 115px 0px 0px;
+     }
+     .icon3{
+        
+        background-color:transparent;
+       margin: 0px 59px 0px 0px;
+     }
+     .hiii{
+        flex-wrap:nowrap;
+        justify-content:flex-end;
+        padding: 0px 0px 10px 145px;
+        margin: 30px 0px 0px 0px;
+        
+        /*border: orange solid 3px;*/
+        text-align: center;
+        font-size:25px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 0px;
+        
+        color: rgb(42, 136, 148);
+        }
+
+        .ul {
+           list-style:  square inside url("../image/icon/lis.png");
+            margin: 0px 0px 0px 0px;
+            }   
+            
+            .hm{
+                text-align:right ;
+                font-size:35px;
+                font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-weight: 0px;
+                color: rgb(42, 136, 148);
+                margin: 10px 15px 0px 0px;
+            }
+
+.E{
+    
+    text-align:center ;
+    font-size:25px;
+    font-weight:lighter;
+    font-style:normal;
+    font-family:arial sans-serif;
+    
+    margin: 10px -15px 0px 0px;
+    
+}
+
+.ht{
+
+    text-align: right;
+        font-size:25px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 0px;
+        color: rgb(42, 136, 148);
+        margin: 50px 20px 20px 0px;
+}
+
+
+.d{
+    /**/
+    font-size:20px;
+    font-weight:lighter;
+    font-style:normal;
+    font-family:arial sans-serif;
+    margin: 20px 35px 0px 0px;
+
+}
+
+.oo{
+    margin: 5px 0px 0px 0px;
+}
+
+.DD{
+    
+    font-size:16px;
+    font-weight:lighter;
+    font-style:normal;
+    font-family:arial sans-serif;
+    margin: 30px 20px 20px 0px;
+    padding: 0px 10px 0px 0px;
+    list-style:  square inside url("../image/icon/lis.png");
+    
+}
+.NN{margin: -20px 25px 20px 0px;
+    font-size:20px;}
+
+    .lii{
+       margin: 10px 5px 10px 20px;
+       text-align: right;
+       font-family:Georgia, 'Times New Roman', Times, serif;
+       font-size: 18px;
+       margin: 15px 35px 0px 0px;
+    }
+.J{
+    margin: 10px 25px 10px 20px;
+    text-align: right;
+    font-size: 1.8em;
+}
+
+.A{
+    margin: 20px 5px 0px 0px;
+    padding: 10px 5px 0px 0px;
+    text-align: right;
+    font-size: 0.8em;  
+    display: flex;
+    flex-direction:column-reverse;
+    
+}
+
+ .parent1{
+    width: auto;
+    height: 1200px;
+   /* border: 5px solid orange;*/
+    background-color: rgb(248, 245, 245);
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap:nowrap;
+    justify-content:center;
+    
+    }
+
+    .child1{
+        width: 40px;
+        height: auto;
+        background-color: rgb(42, 136, 148);
+        margin: 0px 0px 0px 0px;
+        
+        }
+        .child2{
+        width: 270px;
+        height: auto;
+        background-color: rgb(237, 250, 246);
+        }
+        .child3{
+        width: 550px;
+        height: auto;
+        background-color: rgb(255, 255, 255);
+         }
+
+         .dt{margin:-40px 0px 0px 0px ;}
+
+
+         .T2{
+            padding: 0px 20px 0px 0px;
+            margin: 0px 220px 0px 0px ;
+            color:rgb(42, 136, 148);
+        }
+        .T12{
+            padding: 0px 10px 0px 0px;
+            margin:0px 150px 0px 0px ;
+            color:rgb(42, 136, 148);
+            
+        }
+        
+    .T1{
+
+        list-style:  square inside url("../image/icon/lis.png");
+        margin:20px 120px 0px 0px ;
+        padding: 0px 20px 0px 0px;
+
+    }
+    .T11{
+        font-size: 1.3em; 
+        margin: -42px 25px 0px 0px;
+        padding: 20px 0px 0px 0px;
+        color:rgb(42, 136, 148);
+
+    }
+
+    .nti{
+        color:blue;
+    }
+
+    .liil{
+     margin: 20px 0px 0px 160px;
+     font: 1.2em sans-serif;
+
+    }
+    .liil1{
+        margin: 20px 0px 0px 172px;
+        font: 1.2em sans-serif;
+
+    }
+
+    .liil2{
+        margin: 20px 0px 0px 122px;
+        font: 1.2em sans-serif;
+
+    }
+    
+    .Al{
+        margin: 30px -40px 10px 10px;
+    }
+
+    .Sc{
+width: 350px;
+height: 450px;
+margin: 30px 0px 30px 90px;
+border-radius:50px ;
+border: solid 1px  blueviolet;
+
+    }
+
+    @media(max-width:540px){
+        body,.parent,.child1,.child2,.child3,img,.h,.s,.icon,.mail,.tel,.hom,.dat,.loc,.li,.g,.na,.si,.hi,.icon1,.icon11,.hii,.icon2,.icon3,.hiii,.ul,.hm,.E,.ht,.d,.oo,.DD,.NN,.lii,.J,.A,.parent1,.dt,.T2,.T12,.T1,.T11,.liil,.liil1,.liil2,.Al,.Sc{
+       
+            flex-direction: column;
+            align-items: center;
+            font-size: xx-small;
+            padding: 10px 10px 10px 10px ;
+            margin: 0px 0px 0px 0px;
+
+
+
+        }
+
+    }
