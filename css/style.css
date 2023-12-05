@@ -83,6 +83,7 @@ flex-direction: row-reverse;
  }
 .mail{
     margin: 10px 0px 0px 10px;
+    color:blue;
 }
 .tel{margin: 10px 0px 0px 0px;}
 
