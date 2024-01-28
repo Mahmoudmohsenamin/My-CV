@@ -298,7 +298,7 @@ margin: 10px 5px 10px 20px;
 
  .parent1{
     width: auto;
-    height: 1700px;
+    height: 1600px;
    /* border: 5px solid orange;*/
     background-color: rgb(248, 245, 245);
     display: flex;
@@ -382,7 +382,7 @@ margin: 10px 5px 10px 20px;
     }
 
     .Sc{
-width: 550px;
+width: 650px;
 height: 550px;
 margin: 30px 0px 30px 90px;
 border-radius:50px ;
